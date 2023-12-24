@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "23f17c0a-261b-447b-a767-82f95b1f0d1a",
+		"name": "baidu",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14652763",
+		"_collection_link": "https://restless-resonance-867732.postman.co/workspace/My-Workspace~acf4fc43-ed09-4c39-8fbb-0bb9f0a0e4dc/collection/14652763-23f17c0a-261b-447b-a767-82f95b1f0d1a?action=share&source=collection_link&creator=14652763"
+	},
+	"item": [
+		{
+			"name": "baudu",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
